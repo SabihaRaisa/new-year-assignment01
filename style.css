@@ -1,0 +1,174 @@
+.head{
+    background-image: url(images/banner/banner1.png);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+  
+}
+.title{
+    text-align: right;
+    font-weight: 500px;
+    font-size: large;
+    margin-top: 230px;
+    margin-right: 190px;
+
+}
+.butt{
+    text-align:start;
+    color:antiquewhite;
+    background-color: orangered;
+    height: 50px;
+    width: 80px;
+    border: 1px solid orangered;
+}
+.diif{
+   
+    
+    padding-top: 1000px;
+    margin-bottom: 900px;
+    
+}
+.duf{
+    background-image: url(images/person.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    margin-left: 150px;
+  
+
+}
+
+
+.work{
+    /* margin: 400px 400px; */
+    text-align: left;
+    font-weight: 500px;
+    font-size: large;
+    margin-top: 200px;
+    margin-left: 800px;
+    margin-right: 150px;
+
+
+}
+.pp{
+   
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+.wakka{
+    display: flex;
+  
+}
+    
+.web{
+    margin-top: 1px;
+    margin-bottom: 1px;
+    margin-left: 150px;
+    margin-right: 80px;
+
+}
+
+.js{
+    margin: 1px 80px;
+}
+
+.smoke{
+    margin: 1px 80px;
+}
+
+
+.eco{
+    margin-top: 1px;
+    margin-bottom: 1px;
+    margin-left: 80px;
+    margin-right: 150px;
+}
+.wa{
+    margin-top: 200px;
+}
+.oo{
+
+    text-align: left;
+    color: white;
+    font-size: 40px;
+    font-weight: 1200px;
+    margin-top: 30px ;
+    margin-left: 10%;
+
+}
+.watch{
+   
+
+    height: 30%;
+    width: 75%;
+    background-image: url(images/gradient2.png) , url(images/watch.png) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    margin-left: 10%;
+    margin-bottom: 10%;
+    
+}
+.k{
+    color: orangered;
+    background-color: white;
+    padding:15px;
+    border: 1px white;
+    text-align: left;
+    margin-left: 10%;
+}
+.foo{
+    
+    text-align: left;
+    margin-left: 15%;
+    margin-right: 16%;
+    color:white
+}
+.u{
+    margin-top: 600px;
+    background-color: black;
+    height: 900px;
+    width: 100%;
+
+}
+.t{
+    margin-top: 50px;
+}
+.u{
+    display: flex;
+    
+    
+}
+.pak{
+    color: aliceblue;
+}
+.pobi{
+    color: white;
+    background-color: black;
+    padding: 15px;
+    border-color: white;
+    border-radius: 10px;
+    /* height: 30px;
+    width:30px: */
+
+}
+.puk{
+    margin-top: 30px;
+    color: orangered;
+    background-color: white;
+    padding:10px;
+    border-color: white;
+    border-radius: 10px;
+
+}
+.l{
+    margin-right: 300px;
+}
+.tt{
+
+}
+placeholder{
+    color: azure;
+}
